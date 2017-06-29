@@ -1,0 +1,43 @@
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+nav {
+  margin-bottom:2rem;
+}
+
+footer {
+  height:5rem;
+}
+
+footer a {
+  color:black;
+}
+
+footer a:hover{
+  text-decoration:underline;
+}
+
+.top-image {
+  width:175px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:2rem;
+}
+
+.i-flex {
+  display:inline-flex;
+}
+
+.card-content img {
+  float:left;
+  margin-right:1rem;
+  margin-bottom:1rem;
+  width:70px;
+}
+
+.card-content p {
+  display:inline-block;
+}
